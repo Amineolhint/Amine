@@ -1105,6 +1105,9 @@ a {
 .files-page .Statistics .row .icon-red {
     background-color: rgb(244, 64, 52, 20%);
 }
+.files-page .Statistics .row .icon-orange {
+    background-color: rgb(245, 158, 11, 20%);
+}
 .files-page .Statistics .row .text {
     flex-grow: 1;
     margin-left: 5px;
